@@ -1,0 +1,3 @@
+Ime: Emina Dzaferagic
+Datum: 08.06.2025.
+Napomena: Prvi rad sa GitHub repozitorijumom.
